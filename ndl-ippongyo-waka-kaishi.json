@@ -396,6 +396,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 34,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "ndl-ippongyo-waka-kaishi",
   "work": "一品経和歌懐紙",
@@ -408,7 +412,7 @@
   "blocks": 35,
   "chars": 2581,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 34,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T06:49:51+09:00"
